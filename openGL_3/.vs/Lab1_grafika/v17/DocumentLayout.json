@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\graphica lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C624775C-F891-4EAA-A4F5-B54668714CAE}|OpenGLrememberProj\\OpenGLrememberProj.vcxproj|D:\\graphica lab3\\OpenGLrememberProj\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C624775C-F891-4EAA-A4F5-B54668714CAE}|OpenGLrememberProj\\OpenGLrememberProj.vcxproj|solutionrelative:OpenGLrememberProj\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\cmath||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cmath",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\cmath",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\cmath",
+              "ViewState": "AQIAACgBAAAAAAAAAAAuwDsBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T18:18:44.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "D:\\graphica lab3\\OpenGLrememberProj\\Render.cpp",
+              "RelativeDocumentMoniker": "OpenGLrememberProj\\Render.cpp",
+              "ToolTip": "D:\\graphica lab3\\OpenGLrememberProj\\Render.cpp",
+              "RelativeToolTip": "OpenGLrememberProj\\Render.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T13:51:49.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
